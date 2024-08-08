@@ -1,0 +1,16 @@
+/Library/
+Temp/
+.vscode/
+Logs/
+UserSettings/
+Packages/
+obj/
+*.sln
+*.csproj
+*.sln
+*.userprefs
+*.unityproj
+*.DS_Store
+*.snap
+/MemoryCaptures/
+/Assets/ArtRes/
